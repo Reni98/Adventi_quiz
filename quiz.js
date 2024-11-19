@@ -144,7 +144,7 @@ const loadQuiz = () => {
     answerLable[1].innerHTML = quizData[currentQtn].b;
     answerLable[2].innerHTML = quizData[currentQtn].c;
     answerLable[3].innerHTML = quizData[currentQtn].d;
-    // answerLable[4].innerHTML = quizData[currentQtn].d;
+  
 
     reset();
     if(currentQtn==quizData.length-1){
