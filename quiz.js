@@ -2,9 +2,9 @@ const quizData = [
     {
         question: "Mi az Advent?",
         a: "Az adventi időszak a keresztény naptárban Jézus születésére való felkészülés ideje.",
-        b: "Az adventi időszak a keresztény naptárban Jézus születésére való felkészülés ideje.",
+        b: "Az advent az év végi ünnepek összességét jelöli.",
         c: "Az adventi időszak a keresztény naptárban Jézus születésére való felkészülés ideje.",
-        d: "Az advent az egyházi év első ünnepe, amely a nagyböjt előtti időszakot jelöli.",
+        d: "Az advent a kereszténység pünkösd utáni időszaka.",
         correct: "a",
     },
     {
