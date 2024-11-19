@@ -183,7 +183,7 @@ nextQuestionbtn.addEventListener("click", () => {
             quiz.innerHTML = `<h2>You answered ${answerd}/${quizData.length} questions correctly!</h2>`;
         }
     } else {
-        alert("Please select an answer!");
+        alert("Kérem, válasszon a lehetőségek közül!");
     }
 });
 
