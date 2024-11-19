@@ -250,7 +250,13 @@
         display: none;
   }
     }
-      
+
+ @media  (max-width: 540px) {
+      button {
+        margin: 145px 15px 0 0;          
+      }   
+    } 
+  
     
   
   
