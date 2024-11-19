@@ -8,16 +8,15 @@
     background: rgba(21, 25, 26);
   display: flex;
   flex-direction: column;
-  align-items: center; /* Középre igazítás vízszintesen */
-  justify-content: center; /* Középre igazítás függőlegesen */
-  min-height: 100vh; /* A tartalom kitölti a teljes magasságot */
+  align-items: center; 
+  justify-content: center; 
+  min-height: 100vh; 
   position: sticky;
-  top: 0; /* Az elem a képernyő tetején marad, amíg el nem éri azt a pozíciót */
-  z-index: 1000; /* A magasabb z-index biztosítja, hogy az elem mindig a többi elem fölött jelenjen meg */
-
+  top: 0; 
+  z-index: 1000; 
   padding: 10px;
-
   }
+
   .main {
     display: flex;
   align-items: center;
