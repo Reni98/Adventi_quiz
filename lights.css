@@ -251,9 +251,9 @@
   }
     }
 
- @media  (max-width: 540px) {
+@media (min-width: 340px) and (max-width: 547px) {
       button {
-        margin: 145px 15px 0 0;          
+        margin: 145px 15px 0 0;      
       }   
     } 
   
